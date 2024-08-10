@@ -1,0 +1,180 @@
+ stucked wire name: a
+				 *** stuck value: SA1 ***
+ test case 0 at time 0 :  no fault was detected            expected value: 1       current value: 1
+ test case 1 at time 21 :  no fault was detected            expected value: 1       current value: 1
+ test case 2 at time 52 :  no fault was detected            expected value: 1       current value: 1
+ test case 3 at time 71 :  fault was detected               expected value: 0       current value: 1
+ test case 4 at time 84 :  no fault was detected            expected value: 1       current value: 1
+ test case 5 at time 89 :  no fault was detected            expected value: 1       current value: 1
+ test case 6 at time 98 :  no fault was detected            expected value: 1       current value: 1
+ test case 7 at time 108 :  no fault was detected            expected value: 1       current value: 1
+ test case 8 at time 113 :  no fault was detected            expected value: 1       current value: 1
+ test case 9 at time 143 :  no fault was detected            expected value: 1       current value: 1
+ test case 10 at time 146 :  fault was detected               expected value: 0       current value: 1
+ test case 11 at time 148 :  no fault was detected            expected value: 1       current value: 1
+-------------------------------------------------------------------------------------------------------
+ stucked wire name: b
+				 *** stuck value: SA0 ***
+ test case 0 at time 0 :  no fault was detected            expected value: 1       current value: 1
+ test case 1 at time 21 :  no fault was detected            expected value: 1       current value: 1
+ test case 2 at time 52 :  no fault was detected            expected value: 1       current value: 1
+ test case 3 at time 71 :  no fault was detected            expected value: 0       current value: 0
+ test case 4 at time 84 :  no fault was detected            expected value: 1       current value: 1
+ test case 5 at time 89 :  no fault was detected            expected value: 1       current value: 1
+ test case 6 at time 98 :  no fault was detected            expected value: 1       current value: 1
+ test case 7 at time 108 :  no fault was detected            expected value: 1       current value: 1
+ test case 8 at time 113 :  no fault was detected            expected value: 1       current value: 1
+ test case 9 at time 143 :  no fault was detected            expected value: 1       current value: 1
+ test case 10 at time 146 :  fault was detected               expected value: 0       current value: 1
+ test case 11 at time 148 :  no fault was detected            expected value: 1       current value: 1
+-------------------------------------------------------------------------------------------------------
+ stucked wire name: d
+				 *** stuck value: SA0 ***
+ test case 0 at time 0 :  no fault was detected            expected value: 1       current value: 1
+ test case 1 at time 21 :  no fault was detected            expected value: 1       current value: 1
+ test case 2 at time 52 :  no fault was detected            expected value: 1       current value: 1
+ test case 3 at time 71 :  no fault was detected            expected value: 0       current value: 0
+ test case 4 at time 84 :  no fault was detected            expected value: 1       current value: 1
+ test case 5 at time 89 :  no fault was detected            expected value: 1       current value: 1
+ test case 6 at time 98 :  no fault was detected            expected value: 1       current value: 1
+ test case 7 at time 108 :  no fault was detected            expected value: 1       current value: 1
+ test case 8 at time 113 :  no fault was detected            expected value: 1       current value: 1
+ test case 9 at time 143 :  no fault was detected            expected value: 1       current value: 1
+ test case 10 at time 146 :  no fault was detected            expected value: 0       current value: 0
+ test case 11 at time 148 :  no fault was detected            expected value: 1       current value: 1
+-------------------------------------------------------------------------------------------------------
+ stucked wire name: y
+				 *** stuck value: SA0 ***
+ test case 0 at time 0 :  fault was detected               expected value: 1       current value: 0
+ test case 1 at time 21 :  fault was detected               expected value: 1       current value: 0
+ test case 2 at time 52 :  fault was detected               expected value: 1       current value: 0
+ test case 3 at time 71 :  no fault was detected            expected value: 0       current value: 0
+ test case 4 at time 84 :  fault was detected               expected value: 1       current value: 0
+ test case 5 at time 89 :  fault was detected               expected value: 1       current value: 0
+ test case 6 at time 98 :  fault was detected               expected value: 1       current value: 0
+ test case 7 at time 108 :  fault was detected               expected value: 1       current value: 0
+ test case 8 at time 113 :  fault was detected               expected value: 1       current value: 0
+ test case 9 at time 143 :  fault was detected               expected value: 1       current value: 0
+ test case 10 at time 146 :  no fault was detected            expected value: 0       current value: 0
+ test case 11 at time 148 :  fault was detected               expected value: 1       current value: 0
+-------------------------------------------------------------------------------------------------------
+ stucked wire name: y
+				 *** stuck value: SA1 ***
+ test case 0 at time 0 :  no fault was detected            expected value: 1       current value: 1
+ test case 1 at time 21 :  no fault was detected            expected value: 1       current value: 1
+ test case 2 at time 52 :  no fault was detected            expected value: 1       current value: 1
+ test case 3 at time 71 :  fault was detected               expected value: 0       current value: 1
+ test case 4 at time 84 :  no fault was detected            expected value: 1       current value: 1
+ test case 5 at time 89 :  no fault was detected            expected value: 1       current value: 1
+ test case 6 at time 98 :  no fault was detected            expected value: 1       current value: 1
+ test case 7 at time 108 :  no fault was detected            expected value: 1       current value: 1
+ test case 8 at time 113 :  no fault was detected            expected value: 1       current value: 1
+ test case 9 at time 143 :  no fault was detected            expected value: 1       current value: 1
+ test case 10 at time 146 :  fault was detected               expected value: 0       current value: 1
+ test case 11 at time 148 :  no fault was detected            expected value: 1       current value: 1
+-------------------------------------------------------------------------------------------------------
+ stucked wire name: c
+				 *** stuck value: SA0 ***
+ test case 0 at time 0 :  no fault was detected            expected value: 1       current value: 1
+ test case 1 at time 21 :  no fault was detected            expected value: 1       current value: 1
+ test case 2 at time 52 :  no fault was detected            expected value: 1       current value: 1
+ test case 3 at time 71 :  no fault was detected            expected value: 0       current value: 0
+ test case 4 at time 84 :  no fault was detected            expected value: 1       current value: 1
+ test case 5 at time 89 :  no fault was detected            expected value: 1       current value: 1
+ test case 6 at time 98 :  fault was detected               expected value: 1       current value: 0
+ test case 7 at time 108 :  fault was detected               expected value: 1       current value: 0
+ test case 8 at time 113 :  no fault was detected            expected value: 1       current value: 1
+ test case 9 at time 143 :  no fault was detected            expected value: 1       current value: 1
+ test case 10 at time 146 :  no fault was detected            expected value: 0       current value: 0
+ test case 11 at time 148 :  no fault was detected            expected value: 1       current value: 1
+-------------------------------------------------------------------------------------------------------
+ stucked wire name: x
+				 *** stuck value: SA0 ***
+ test case 0 at time 0 :  no fault was detected            expected value: 1       current value: 1
+ test case 1 at time 21 :  no fault was detected            expected value: 1       current value: 1
+ test case 2 at time 52 :  no fault was detected            expected value: 1       current value: 1
+ test case 3 at time 71 :  no fault was detected            expected value: 0       current value: 0
+ test case 4 at time 84 :  no fault was detected            expected value: 1       current value: 1
+ test case 5 at time 89 :  no fault was detected            expected value: 1       current value: 1
+ test case 6 at time 98 :  no fault was detected            expected value: 1       current value: 1
+ test case 7 at time 108 :  no fault was detected            expected value: 1       current value: 1
+ test case 8 at time 113 :  no fault was detected            expected value: 1       current value: 1
+ test case 9 at time 143 :  no fault was detected            expected value: 1       current value: 1
+ test case 10 at time 146 :  no fault was detected            expected value: 0       current value: 0
+ test case 11 at time 148 :  fault was detected               expected value: 1       current value: 0
+-------------------------------------------------------------------------------------------------------
+ stucked wire name: x
+				 *** stuck value: SA1 ***
+ test case 0 at time 0 :  no fault was detected            expected value: 1       current value: 1
+ test case 1 at time 21 :  no fault was detected            expected value: 1       current value: 1
+ test case 2 at time 52 :  no fault was detected            expected value: 1       current value: 1
+ test case 3 at time 71 :  fault was detected               expected value: 0       current value: 1
+ test case 4 at time 84 :  no fault was detected            expected value: 1       current value: 1
+ test case 5 at time 89 :  no fault was detected            expected value: 1       current value: 1
+ test case 6 at time 98 :  no fault was detected            expected value: 1       current value: 1
+ test case 7 at time 108 :  no fault was detected            expected value: 1       current value: 1
+ test case 8 at time 113 :  no fault was detected            expected value: 1       current value: 1
+ test case 9 at time 143 :  no fault was detected            expected value: 1       current value: 1
+ test case 10 at time 146 :  fault was detected               expected value: 0       current value: 1
+ test case 11 at time 148 :  no fault was detected            expected value: 1       current value: 1
+-------------------------------------------------------------------------------------------------------
+ stucked wire name: xbar
+				 *** stuck value: SA1 ***
+ test case 0 at time 0 :  no fault was detected            expected value: 1       current value: 1
+ test case 1 at time 21 :  no fault was detected            expected value: 1       current value: 1
+ test case 2 at time 52 :  no fault was detected            expected value: 1       current value: 1
+ test case 3 at time 71 :  no fault was detected            expected value: 0       current value: 0
+ test case 4 at time 84 :  no fault was detected            expected value: 1       current value: 1
+ test case 5 at time 89 :  no fault was detected            expected value: 1       current value: 1
+ test case 6 at time 98 :  no fault was detected            expected value: 1       current value: 1
+ test case 7 at time 108 :  no fault was detected            expected value: 1       current value: 1
+ test case 8 at time 113 :  no fault was detected            expected value: 1       current value: 1
+ test case 9 at time 143 :  no fault was detected            expected value: 1       current value: 1
+ test case 10 at time 146 :  no fault was detected            expected value: 0       current value: 0
+ test case 11 at time 148 :  no fault was detected            expected value: 1       current value: 1
+-------------------------------------------------------------------------------------------------------
+ stucked wire name: aa
+				 *** stuck value: SA1 ***
+ test case 0 at time 0 :  no fault was detected            expected value: 1       current value: 1
+ test case 1 at time 21 :  fault was detected               expected value: 1       current value: 0
+ test case 2 at time 52 :  fault was detected               expected value: 1       current value: 0
+ test case 3 at time 71 :  no fault was detected            expected value: 0       current value: 0
+ test case 4 at time 84 :  no fault was detected            expected value: 1       current value: 1
+ test case 5 at time 89 :  fault was detected               expected value: 1       current value: 0
+ test case 6 at time 98 :  no fault was detected            expected value: 1       current value: 1
+ test case 7 at time 108 :  no fault was detected            expected value: 1       current value: 1
+ test case 8 at time 113 :  no fault was detected            expected value: 1       current value: 1
+ test case 9 at time 143 :  no fault was detected            expected value: 1       current value: 1
+ test case 10 at time 146 :  no fault was detected            expected value: 0       current value: 0
+ test case 11 at time 148 :  no fault was detected            expected value: 1       current value: 1
+-------------------------------------------------------------------------------------------------------
+ stucked wire name: bb
+				 *** stuck value: SA1 ***
+ test case 0 at time 0 :  no fault was detected            expected value: 1       current value: 1
+ test case 1 at time 21 :  no fault was detected            expected value: 1       current value: 1
+ test case 2 at time 52 :  no fault was detected            expected value: 1       current value: 1
+ test case 3 at time 71 :  no fault was detected            expected value: 0       current value: 0
+ test case 4 at time 84 :  fault was detected               expected value: 1       current value: 0
+ test case 5 at time 89 :  no fault was detected            expected value: 1       current value: 1
+ test case 6 at time 98 :  fault was detected               expected value: 1       current value: 0
+ test case 7 at time 108 :  fault was detected               expected value: 1       current value: 0
+ test case 8 at time 113 :  fault was detected               expected value: 1       current value: 0
+ test case 9 at time 143 :  no fault was detected            expected value: 1       current value: 1
+ test case 10 at time 146 :  no fault was detected            expected value: 0       current value: 0
+ test case 11 at time 148 :  fault was detected               expected value: 1       current value: 0
+-------------------------------------------------------------------------------------------------------
+ stucked wire name: x0
+				 *** stuck value: SA0 ***
+ test case 0 at time 0 :  no fault was detected            expected value: 1       current value: 1
+ test case 1 at time 21 :  no fault was detected            expected value: 1       current value: 1
+ test case 2 at time 52 :  no fault was detected            expected value: 1       current value: 1
+ test case 3 at time 71 :  no fault was detected            expected value: 0       current value: 0
+ test case 4 at time 84 :  no fault was detected            expected value: 1       current value: 1
+ test case 5 at time 89 :  no fault was detected            expected value: 1       current value: 1
+ test case 6 at time 98 :  no fault was detected            expected value: 1       current value: 1
+ test case 7 at time 108 :  no fault was detected            expected value: 1       current value: 1
+ test case 8 at time 113 :  fault was detected               expected value: 1       current value: 0
+ test case 9 at time 143 :  no fault was detected            expected value: 1       current value: 1
+ test case 10 at time 146 :  no fault was detected            expected value: 0       current value: 0
+ test case 11 at time 148 :  fault was detected               expected value: 1       current value: 0
+-------------------------------------------------------------------------------------------------------

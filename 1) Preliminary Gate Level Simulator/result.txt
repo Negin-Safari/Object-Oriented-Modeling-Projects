@@ -1,0 +1,8 @@
+  name:a  ->   value:1  time:0  /    value:0  time:71
+  name:b  ->   value:1  time:0  /    value:0  time:52  /    value:1  time:71
+  name:s  ->   value:1  time:0  /    value:0  time:21  /    value:1  time:52
+  name:sbar  ->   value:0  time:5  /    value:1  time:24  /    value:0  time:57
+  name:aa  ->   value:1  time:8  /    value:0  time:29  /    value:1  time:60  /    value:0  time:76
+  name:bb  ->   value:0  time:5
+  name:y  ->   value:1  time:11  /    value:0  time:34  /    value:1  time:63  /    value:0  time:81
+  name:w  ->   value:0  time:10
